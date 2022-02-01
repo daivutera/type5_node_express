@@ -1,0 +1,22 @@
+{
+  "name": "2022-02-01-node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daivutera/type5_node_express.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "daiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daivutera/type5_node_express/issues"
+  },
+  "homepage": "https://github.com/daivutera/type5_node_express#readme"
+}
